@@ -1,3 +1,4 @@
+---
 author: aggelos2000430
 title: magic-mouse
 image_url: magic-mouse.jpg
